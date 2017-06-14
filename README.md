@@ -6,7 +6,7 @@
 ## 项目运行
 
 ```
-git clone https://github.com/kkkdb/react-crmadmin.git
+git clone https://github.com/kkkdb/antd-demo.git
 
 cd antd-demo
 
