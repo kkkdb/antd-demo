@@ -1,7 +1,7 @@
 # React 后台管理系统
 ## 概述
 
-项目是用create-react-app创建的，又引入了部分antd组件，主要借鉴了 。
+项目是用create-react-app创建的，又引入了部分antd组件，主要借鉴了 https://github.com/yezihaohao/react-admin。
 
 ## 项目运行
 
