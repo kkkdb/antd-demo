@@ -48,6 +48,11 @@ class SiderCustom extends Component {
             collapsed,
             mode: collapsed ? 'vertical' : 'inline',
         });
+        if (collapsed) {
+            this.setState({
+                openKey: ''
+            })
+        }
     };
     menuClick = e => {
         this.setState({
